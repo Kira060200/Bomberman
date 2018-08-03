@@ -7,4 +7,4 @@ Controls
 -------------
 You can move usinng W,A,S,D adn arrows.
 In order to place bombs, use f or / .
-Enjoy! :)
+Hope you enjoy! :)
