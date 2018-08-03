@@ -1,7 +1,7 @@
 # Bomberman
 Simple and easy to use 2-player bomberman for PC. 
 It's written in plain java. Compile it and you are ready to go.
-I will also added the Jar in order to make things easy.
+I also added the Jar in order to make things easy.
 -------------
 Controls
 -------------
