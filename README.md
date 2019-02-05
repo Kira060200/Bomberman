@@ -8,3 +8,8 @@ Controls
 You can move usinng W,A,S,D and arrows.
 In order to place bombs, use f or / .
 Hope you enjoy! :)
+-------------
+Concepts used:
+-------------
+-concurrency(multi-tasking)
+-OOP
